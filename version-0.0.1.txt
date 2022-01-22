@@ -1,0 +1,36 @@
+Version 0.0.1 - al 16/10/2021 - Local -
+
+Ruta local de archivos de la version 0.0.1
+==================================================================================================================
+c:\xampp\htdocs\zz_PHP\proyecto-sf\
+
+
+Ruta local de archivos de la version 0.0.1
+=============================================================================================================================
+g:\a_FGMA\z_Proyecto ITH\Proy N33 Sistema SF\04 - Codificacion\4-1 - Versiones\Linea Base Actual Local\version 0.0.1 - Local\
+
+
+URL Localhost desarrollo y testing
+=============================================================================================================================
+http://localhost/zz_PHP/proyecto-sf/login-user/index-user.php
+
+usuarios       claves     rol
+----------------------------------------
+fmagunaaran    Fer2017$   
+gmangrenis     Fer2017$  Administrador
+
+
+NOTAS de esta version 0.0.1
+------------------------------------------------------------------------------------------------------------------
+1) Version inicial - se arma la arquitectura y se documenta
+
+
+Ruta ITH de la version 0.0.1
+==================================================================================================================
+No realizadas   
+
+
+Arquitectura del sistema
+------------------------------------------------------------------------------------------------------------------
+g:\a_FGMA\ITH Informatica\Proy N33 Sistema SF\00 - Documentacion\version 0.0.1\ARQ_Sistema SF v0.0.0_18-01-21.xlsx
+
