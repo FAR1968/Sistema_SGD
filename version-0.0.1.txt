@@ -14,11 +14,6 @@ URL Localhost desarrollo y testing
 =============================================================================================================================
 http://localhost/zz_PHP/proyecto-sf/login-user/index-user.php
 
-usuarios       claves     rol
-----------------------------------------
-fmagunaaran    Fer2017$   
-gmangrenis     Fer2017$  Administrador
-
 
 NOTAS de esta version 0.0.1
 ------------------------------------------------------------------------------------------------------------------
