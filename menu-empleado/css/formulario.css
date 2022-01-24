@@ -1,0 +1,15 @@
+#signup .indent label.error {
+	margin-left: 0;
+  }
+  #signup label.error {
+	/* font-size: 0.8em; */
+	font-size: 0.9em;
+	color: #F00;
+	font-weight: bold;
+	display: block;
+	/* margin-left: 15px; */
+  }
+  #signup  input.error, #signup select.error  {
+	background: #FFA9B8;
+	border: 1px solid red;
+  }
